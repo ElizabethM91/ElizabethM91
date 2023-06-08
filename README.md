@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ### Hi I am Elizabeth 👋
 
 - Mum to 3 👶
-- <p>Becoming a Web Devloper</p> 👩‍💻
+- <p>Becoming a Web Devloper 👩‍💻 </p>
 - Crochet mad- You cold? I'll make you a blanket 🧶
 - COD mad 🎮
