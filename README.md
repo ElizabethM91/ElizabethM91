@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **xXxLizzy91xXx/xXxLizzy91xXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi I am Elizabeth 👋
+
+- Mum to 3 👶
+- <p>Becoming a Web Devloper</p> 👩‍💻
+- Crochet mad- You cold? I'll make you a blanket 🧶
+- COD mad 🎮
