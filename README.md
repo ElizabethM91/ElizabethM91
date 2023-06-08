@@ -8,9 +8,9 @@
   </ul>
 
 ### Lets Connect!
-<a href="https://www.linkedin.com/in/elizabethmuir91/"><img align="left" src="" alt="Linkedin Icon" width="21px"></a>
+<a href="https://www.linkedin.com/in/elizabethmuir91/"><img align="left" src="https://raw.githubusercontent.com/xXxLizzy91xXx/xXxLizzy91xXx/main/imgs/linkedin.png" alt="Linkedin Icon" width="21px"></a>
 
 ### 🌱 What am I learning?
-<ul>
-  <li></li>
-</ul>
+  <ul>
+    <li></li>
+  </ul>
