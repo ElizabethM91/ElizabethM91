@@ -16,8 +16,15 @@ Here are some ideas to get you started:
 
 
 ### Hi I am Elizabeth 👋
+<p>
+  <ul>
+    <li>Mum to 3 👶 </li>
+    <li>Becoming a Web Devloper 👩‍💻 </li>
+    <li>Crochet mad- You cold? I'll make you a blanket 🧶 </li>
+    <li>COD mad 🎮 </li>
+  </ul>
+</p>
 
-- Mum to 3 👶
-- <p>Becoming a Web Devloper 👩‍💻 </p>
-- Crochet mad- You cold? I'll make you a blanket 🧶
-- COD mad 🎮
+### Lets Connect!
+
+
