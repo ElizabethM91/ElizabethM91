@@ -4,7 +4,7 @@
     <li>Mum to 3 👶 </li>
     <li>Software Developer in the making... 👩‍💻 </li>
     <li>Crochet mad- You cold? I'll make you a blanket 🧶 </li>
-    <li>COD mad 🎮 </li>
+    <li>Gaming mad 🎮 </li>
   </ul>
   
 ### Lets Connect!
