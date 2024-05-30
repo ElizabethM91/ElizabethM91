@@ -50,4 +50,6 @@
 ### Time for a quick Joke?
 ![Jokes Card](https://readme-jokes.vercel.app/api?showBorder&theme=gotham)
 
+![visitors](https://vbr.nathanchung.dev/badge?page_id=ElizabethM91&logo=github&lcolor=ff4d6d&color=grey)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F28367,100:FF5282&text=&reversal=false&descAlign=50&fontSize=50&fontAlign=50&fontAlignY=70&animation=fadeIn&section=footer)
