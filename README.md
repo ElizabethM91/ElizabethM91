@@ -8,20 +8,20 @@
   </ul>
 
 ### Technologies and Tools
-
-<img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" /> 
-<img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" /> 
-<img height="25" width="25" style="padding: 5px;" src="https://cdn.simpleicons.org/powerbi" />
-<img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" /> 
-<img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" /> 
-<img height="25" width="25" style="padding: 5px;" src="https://cdn.simpleicons.org/R" /> 
-<img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" /> 
-<img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" /> 
-<img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" /> 
-<img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /> 
-<img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" /> 
-<img height="25" width="25" style="padding: 5px;" src="https://cdn.simpleicons.org/javascript/" /> 
-
+<p>
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://cdn.simpleicons.org/powerbi" />
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://cdn.simpleicons.org/R" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://cdn.simpleicons.org/javascript/" /> 
+</p>
 
 
 ### Lets Connect!
