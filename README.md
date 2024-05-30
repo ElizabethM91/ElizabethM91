@@ -7,19 +7,33 @@
     <li>Gaming mad 🎮 </li>
   </ul>
 
-### Technologies and Tools
+### Languages and Tools
 <p>
+  <!-- Excel --->
   <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" /> 
+  <!-- Tableau --->  
   <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" /> 
+  <!-- PowerBi --->
   <img height="25" width="25" style="padding: 5px;" src="https://cdn.simpleicons.org/powerbi" />
+  <!-- MySQL --->
   <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" /> 
+  <!-- Python --->
   <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" /> 
+  <!-- Pandas --->
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" /> 
+  <!-- R --->
   <img height="25" width="25" style="padding: 5px;" src="https://cdn.simpleicons.org/R" /> 
+  <!-- Jupyter --->
   <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" /> 
+  <!-- GitHub --->
   <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" /> 
+  <!-- VS Code --->
   <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" /> 
+  <!-- HTML --->
   <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /> 
+  <!-- CSS --->
   <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" /> 
+  <!-- JavaScript --->
   <img height="25" width="25" style="padding: 5px;" src="https://cdn.simpleicons.org/javascript/" /> 
 </p>
 
@@ -28,9 +42,9 @@
 <p>
   <a href="https://www.linkedin.com/in/elizabethmuir91/"><img height="40" width="40" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Linkedin Icon" width="21px"></a>
   <a href="https://stackoverflow.com/users/22046608/xxxlizzym91xxx"><img height="40" width="40" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=13955&format=png&color=000000" alt="Stack-Overflow Icon"></a>
-  <a href="mailto:emuir91@hotmail.com"><img height="40" width="40" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=13922&format=png&color=000000"  /> </a>
-  <a href="https://public.tableau.com/app/profile/elizabeth.muir/vizzes" > <img height="40" width="40" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/> </a>
-  <a href="https://github.com/ElizabethM91"><img height="40" width="40" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" /></a>
+  <a href="mailto:emuir91@hotmail.com"><img height="40" width="40" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=13922&format=png&color=000000" alt="Email Icon" /> </a>
+  <a href="https://public.tableau.com/app/profile/elizabeth.muir/vizzes" > <img height="40" width="40" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau Icon"/> </a>
+  <a href="https://github.com/ElizabethM91"><img height="40" width="40" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="GitHub Icon"/></a>
 </p>
 
 ### Time for a quick Joke?
