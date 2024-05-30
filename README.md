@@ -3,38 +3,38 @@
   <ul>
     <li>Mum to 3 👶 </li>
     <li>Learning about data... 👩‍💻 </li>
-    <li>Crochet mad- You cold? I'll make you a blanket 🧶 </li>
+    <li>Crochet enthusiast- You cold? I'll make you a blanket 🧶 </li>
     <li>Gaming mad 🎮 </li>
   </ul>
 
 ### Languages and Tools
 <p>
   <!-- Excel --->
-  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel Icon"/> 
   <!-- Tableau --->  
-  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau Icon"/> 
   <!-- PowerBi --->
-  <img height="25" width="25" style="padding: 5px;" src="https://cdn.simpleicons.org/powerbi" />
+  <img height="25" width="25" style="padding: 5px;" src="https://cdn.simpleicons.org/powerbi" alt="PowerBi Icon"/>
   <!-- MySQL --->
-  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL Icon"/> 
   <!-- Python --->
-  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" alt="Python Icon"/> 
   <!-- Pandas --->
-  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas Icon"/> 
   <!-- R --->
-  <img height="25" width="25" style="padding: 5px;" src="https://cdn.simpleicons.org/R" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://cdn.simpleicons.org/R" alt="R Icon"/> 
   <!-- Jupyter --->
-  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="Jupyter Icon"/> 
   <!-- GitHub --->
-  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="GitHub Icon"/> 
   <!-- VS Code --->
-  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code Icon"/> 
   <!-- HTML --->
-  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML Icon"/> 
   <!-- CSS --->
-  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS Icon"/> 
   <!-- JavaScript --->
-  <img height="25" width="25" style="padding: 5px;" src="https://cdn.simpleicons.org/javascript/" /> 
+  <img height="25" width="25" style="padding: 5px;" src="https://cdn.simpleicons.org/javascript/" alt="JavaScript Icon"/> 
 </p>
 
 
