@@ -3,6 +3,7 @@
   <ul>
     <li>Mum to 3 👶 </li>
     <li>Learning about data... 👩‍💻 </li>
+    <li>On route to become a Data Analyst 📈</li>
     <li>Crochet enthusiast- You cold? I'll make you a blanket 🧶 </li>
     <li>Gaming mad 🎮 </li>
   </ul>
