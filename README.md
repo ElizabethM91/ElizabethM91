@@ -15,7 +15,7 @@
   <!-- Tableau --->  
   <img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau Icon"/> 
   <!-- PowerBi --->
-  <img height="30" width="30" style="padding: 5px;" src="https://cdn.simpleicons.org/powerbi" alt="PowerBi Icon"/>
+  <img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="PowerBi Icon"/>
   <!-- MySQL --->
   <img height="30" width="30" style="padding: 5px;" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL Icon"/> 
   <!-- Python --->
