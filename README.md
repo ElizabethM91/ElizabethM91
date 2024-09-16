@@ -38,6 +38,8 @@
   <img height="30" width="30" style="padding: 5px;" src="https://cdn.simpleicons.org/javascript/" alt="JavaScript Icon"/> 
 </p>
 
+### **Current Project** : Data Portfolio
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElizabethM91&repo=Portfolio&show_owner=True)](https://github.com/ElizabethM91/Portfolio)
 
 ### Lets Connect!
 <p>
