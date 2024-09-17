@@ -39,7 +39,7 @@
 </p>
 
 ### **Current Project** : Data Portfolio
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElizabethM91&repo=Portfolio&show_owner=True)](https://github.com/ElizabethM91/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElizabethM91&repo=Portfolio&show_owner=True&theme=dark)](https://github.com/ElizabethM91/Portfolio)
 
 ### Lets Connect!
 <p>
